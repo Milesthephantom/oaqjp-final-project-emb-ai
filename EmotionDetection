@@ -3,3 +3,5 @@ final_project/
 │   ├── __init__.py
 │   └── emotion_detection.py
 └── setup.py
+result = emotion_detector("I hate working long hours.")
+print(result)
